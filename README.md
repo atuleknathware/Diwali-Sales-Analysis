@@ -1,3 +1,3 @@
 # Diwali-Sales-Analysis
-Python Project,
+Python Project <br>
 Author:Atul Ware
